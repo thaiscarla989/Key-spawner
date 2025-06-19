@@ -5,7 +5,7 @@ local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 local Window = Rayfield:CreateWindow({
    Name = "Spawner Key 🔑",
    LoadingTitle = "Spawner Key 🔑",
-   LoadingSubtitle = "by SeuNomeAqui",
+   LoadingSubtitle = "by ThaisCarlaGames",
    ConfigurationSaving = {
       Enabled = false
    },
